@@ -1,0 +1,15 @@
+//prog to print sum of two values
+#include<stdio.h>
+#include<conio.h>
+void main.()
+{
+int num1,num2,num3; //declaration
+clrscr();
+
+print("\enter the numbers: ")
+scanf("%d%d;num1,num2); //input
+
+num3=num1+num2 ;process 
+printf("\ntotal = %d",num3) //output
+getch();
+}
